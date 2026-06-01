@@ -1,6 +1,6 @@
 ## Hi Y'all
 # 💫 About Me:
-<br>Founder of Vallonation<br><br>Code. Learn. Build. Repeat.<br><br>Mobile Developer • Cyber Security • Cloud • AI • full stack<br><br>Creating useful and innovative digital solutions.<br>Open to new challenges and projects.
+<br>Founder of Vallonation<br><br>Code. Learn. Build. Repeat.<br><br>Mobile Dev | Cyber Security | Cloud Computing | AI | Full-Stack Developer<br><br>Creating useful and innovative digital solutions.<br>Open to new challenges and projects.
 
 
 ## 🌐 Socials:
