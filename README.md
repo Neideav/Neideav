@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi Y'all
 # 💫 About Me:
-<br>I’m currently working on Mobile Apps & Personal Projects at Vallonation<br>I’m looking to collaborate on Open Source, Mobile Development, AI, and Cyber Security projects<br> I’m looking for help with Cloud Infrastructure, DevOps, and Advanced Security Research<br>I’m currently learning Kotlin, Cloud Computing, AI Engineering, and Cyber Security<br>Ask me about Mobile Development, Arduino, Linux, and GitHub<br>Fun fact: I enjoy combining multiple fields like AI, Cloud, Cyber Security, and Mobile Development into a single project# Hi there 👋<br>Founder of Vallonation<br><br>Code. Learn. Build. Repeat.<br><br>Mobile Developer • Cyber Security • Cloud • AI • full stack<br><br>Creating useful and innovative digital solutions.<br>Open to new challenges and projects.
+<br>I’m currently working on Mobile Apps & Personal Projects at Vallonation<br>I’m looking to collaborate on Open Source, Mobile Development, AI, and Cyber Security projects<br> I’m looking for help with Cloud Infrastructure, DevOps, and Advanced Security Research<br>I’m currently learning Kotlin, Cloud Computing, AI Engineering, and Cyber Security<br>Ask me about Mobile Development, Arduino, Linux, and GitHub<br>Fun fact: I enjoy combining multiple fields like AI, Cloud, Cyber Security, and Mobile Development into a single project#
+<br>Founder of Vallonation<br><br>Code. Learn. Build. Repeat.<br><br>Mobile Developer • Cyber Security • Cloud • AI • full stack<br><br>Creating useful and innovative digital solutions.<br>Open to new challenges and projects.
 
 
 ## 🌐 Socials:
